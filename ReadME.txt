@@ -1,5 +1,4 @@
-Wen Zhang （zhangw6@student.unimelb.edu.au）
-Yunpeng Sun (syp0412@gmail.com)
+
 
 Techniques for Agents:
 The essential algorithm we applied in this project is heuristic search 
